@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What does JVM stand for?",
+        "options": ["Java Virtual Machine", "Java Variable Machine", "Java Virtual Method", "Java Void Method"],
+        "answer": "Java Virtual Machine"
+    },
+    {
+        "question": "Which data type is used to create a variable that should store text?",
+        "options": ["String", "int", "text", "char"],
+        "answer": "String"
+    },
+    {
+        "question":"In java, jar stands for?",
+        "options":["Java Archive Runner","Java Archive","Java Application Resource","Java Application Runner"],
+        "answer":"Java Archive"
+    },
+    {
+        "question":"Which package contains the Random class?",
+        "options":["java.util package","java.lang package","java.io package","java.awt package"],
+        "answer":"java.util package"
+    },
+    {
+        "question":"When an array is passed to a method, what does the method receive?",
+        "options":["reference of the array","copy of the array","length of the array","copy of first element"],
+        "answer":"reference of the array"
+    },
+    {
+        "question":"Arrays in java are-",
+        "options":["Object references","Objects","Primitive data type","None"],
+        "answer":"Objects"
+    },
+    {
+        "question":"When is the object created with new keyword?",
+        "options":["At the run time","At the compile time","Depends on the code","When constructor is called"],
+        "answer":"At the run time"
+    },
+    {
+        "question":"Which is used to find and fix bugs in the Java programs?",
+        "options":["JVM","JDB","JDK","JRE"],
+        "answer":"JDB"
+    },
+    {
+        "question":"Output of Math.floor(3.6)?",
+        "options":["3","3.0","4","4.0"],
+        "answer":"3.0"
+    },
+    {
+        "question":"Identify the modifier which cannot be used for constructor.",
+        "options":["public","static","protected","private"],
+        "answer":"static"
+    }
+]

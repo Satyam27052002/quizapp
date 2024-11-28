@@ -2,3 +2,6 @@ Quiz.java
 Score.java
 Rules.java
 Login.java
+build/
+nbproject/
+.xml
